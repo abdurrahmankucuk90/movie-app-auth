@@ -28,4 +28,4 @@ Firebase
 
 ## Live Site
 
-[link text itself]: https://movie-app-with-auth-ak.netlify.app/
+[(https://movie-app-with-auth-ak.netlify.app/)]: Movie App
