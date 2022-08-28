@@ -25,3 +25,7 @@ Firebase
 
 
 ![Form](MovieApp.gif)
+
+## Live Site
+
+<a herf="https://movie-app-with-auth-ak.netlify.app" target = '_blank'>Movie App</a>

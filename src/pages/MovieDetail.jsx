@@ -34,6 +34,7 @@ const MovieDetail = () => {
       <div className="card mb-3">
         <div className="row g-0">
           <div className="col-md-4">
+            
             <img
               src={poster_path ? baseImageUrl + poster_path : defaultImage}
               className="img-fluid rounded-start"
