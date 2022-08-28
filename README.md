@@ -28,4 +28,4 @@ Firebase
 
 ## Live Site
 
-<a herf="https://movie-app-with-auth-ak.netlify.app" target = '_blank'>Movie App</a>
+[link text itself]: https://movie-app-with-auth-ak.netlify.app/
