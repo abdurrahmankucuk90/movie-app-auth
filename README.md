@@ -24,7 +24,7 @@ Firebase
 ## Preview
 
 
-![Form](MovieApp.gif)
+![Form](https://github.com/abdurrahmankucuk90/movie-app-auth/blob/master/MovieApp.gif)
 
 ## Live Site
 
